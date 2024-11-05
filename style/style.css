@@ -4,3 +4,11 @@ body {
     margin: 0;
     width: 100%;
 }
+
+#headline {
+    text-align: center;
+}
+
+#headline1 {
+    font-size: 72px;
+}

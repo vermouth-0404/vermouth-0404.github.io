@@ -1,23 +1,22 @@
 body {
     font-family: 'Yu Gothic', sans-serif;
     height: 100%;
+    margin: 0;
     width: 100%;
 }
 
 #headline {
-    margin: auto;
-    padding: 10% 0;
     text-align: center;
 }
 
 #headline1 {
     font-size: 72px;
-    padding: 4% 0;
+    padding: 8% 0;
 }
 
 #headline2 {
     font-size: 36px;
-    padding: 4%;
+    padding: 8% 0;
 }
 
 #headline3 {

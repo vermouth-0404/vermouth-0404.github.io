@@ -1,14 +1,12 @@
 body {
     font-family: 'Yu Gothic', sans-serif;
     height: 100%;
-    position: relative;
     width: 100%;
 }
 
 #headline {
     margin: auto;
-    padding: 10% 0 0;
-    position: absolute;
+    padding: 10% 0;
     text-align: center;
 }
 

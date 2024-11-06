@@ -8,3 +8,15 @@ body {
 #headline {
     text-align: center;
 }
+
+#headline1 {
+    font-size: 72px;
+}
+
+#headline2 {
+    font-size: 40px;
+}
+
+#headline3 {
+    font-size: 30px;
+}

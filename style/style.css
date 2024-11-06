@@ -7,9 +7,9 @@ body {
 
 #headline {
     text-align: center;
+    vertical-align: middle;
 }
 
 #headline1 {
     font-size: 72px;
-    vertical-align: middle;
 }

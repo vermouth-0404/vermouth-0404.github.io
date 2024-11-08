@@ -9,7 +9,7 @@ html {
 
     header .responsive-button {
         display: flex;
-        z-index: 102;
+        position: absolute;
     }
     
     header .navigation {
@@ -82,6 +82,7 @@ header .responsive-button {
     margin: 0 2rem 0 0;
     cursor: pointer;
     position: relative;
+    z-index: 102;
 }
 
 header .menu-line {

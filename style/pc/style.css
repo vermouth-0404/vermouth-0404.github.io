@@ -32,7 +32,7 @@ header #logo {
     background-color: #aee6f4;
     height: 4px;
     position: fixed;
-    top: 120px;
+    top: 64px;
     width: 100%;
     z-index: 101;
 }

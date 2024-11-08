@@ -43,7 +43,7 @@ header #logo {
 
 #headline1 {
     border-bottom: 2px solid #3581d7;
-    font-size: clamp(40px, 72px, 80px);
+    font-size: clamp(36px, 72px, 80px);
     padding: 32vh 2vh 0;
 }
 

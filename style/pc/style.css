@@ -31,7 +31,9 @@ header #logo {
 #header-bottom {
     background-color: #aee6f4;
     height: 4px;
+    position: fixed;
     width: 100%;
+    z-index: 100;
 }
 
 #headline {

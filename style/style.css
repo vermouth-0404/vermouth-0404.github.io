@@ -1,3 +1,13 @@
+html {
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 768px) {
+    html {
+        font-size: 10px;
+    }
+}
+
 body {
     background-attachment: fixed;
     background-color: #aee6f4;
@@ -43,15 +53,15 @@ header #logo {
 
 #headline1 {
     border-bottom: 2px solid #3581d7;
-    font-size: clamp(2rem, 4rem, 5rem);
+    font-size: 5rem;
     padding: 32vh 2vh 0;
 }
 
 #headline2 {
-    font-size: clamp(1.2rem, 2rem, 2.2rem);
+    font-size: 2.2rem;
     padding: 2vh 0;
 }
 
 #headline3 {
-    font-size: clamp(0.8rem, 1.2rem, 1.5rem);
+    font-size: 1.5rem;
 }

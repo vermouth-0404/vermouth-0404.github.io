@@ -50,12 +50,13 @@ header .navigation-list {
 }
 
 header .navigation-list li {
-    margin: 0 1rem 0 2rem;
+    padding: 0 0 0 2rem;
 }
 
 header .navigation-link {
     color: #000000;
     font-size: 1.4rem;
+    text-decoration: none;
 }
 
 #header-bottom {

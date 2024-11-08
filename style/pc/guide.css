@@ -1,1 +1,38 @@
+body {
+    background-attachment: fixed;
+    background-color: #aee6f4;
+    background-image: url(../../image/bookshelf.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: YuGothic, 'Yu Gothic', sans-serif;
+    height: 100%;
+    margin: 0;
+    width: 100%;
+}
 
+header {
+    background-color: #aee6f4;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+header #logo {
+    float: left;
+    height: 60px;
+    padding: 10px 24px;
+}
+
+#header-bottom {
+    background-color: #aee6f4;
+    height: 4px;
+    position: fixed;
+    top: 64px;
+    width: 100%;
+    z-index: 101;
+}

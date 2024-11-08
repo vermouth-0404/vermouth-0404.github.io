@@ -1,4 +1,10 @@
 body {
+    background-attachment: fixed;
+    background-color: #aee6f4;
+    background-image: url(../../image/bookshelf.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: YuGothic, 'Yu Gothic', sans-serif;
     height: 100%;
     margin: 0;
@@ -6,8 +12,6 @@ body {
 }
 
 #headline {
-    background-attachment: fixed;
-    background-image: url(../../image/bookshelf.png);
     text-align: center;
 }
 

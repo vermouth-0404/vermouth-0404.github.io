@@ -50,7 +50,7 @@ header .navigation-list {
 }
 
 header .navigation-list li {
-    padding: 0 2rem 0 0;
+    margin: 0 2rem 0 0;
 }
 
 header .navigation-link {

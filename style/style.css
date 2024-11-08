@@ -126,10 +126,6 @@ header {
         font-size: 10px;
     }
 
-    header {
-        position: relative;
-    }
-
     .hamburger-list {
         background-color: linear-gradient(#aee6f4 60%, #5f74da);
         align-items: flex-start;
@@ -157,9 +153,10 @@ header {
         cursor: pointer;
         display: flex;
         flex-direction: column;
-        gap: 4px;
         height: 1.4rem;
         justify-content: center;
+        margin: 1rem 2rem;
+        position: fixed;
         width: 2rem;
         z-index: 102;
     }

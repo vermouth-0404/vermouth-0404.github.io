@@ -11,7 +11,7 @@ html {
         position: relative;
     }
 
-    .hamburger-bg {
+    #hamburger {
         z-index: 102;
     }
 

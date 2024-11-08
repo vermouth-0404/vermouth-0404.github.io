@@ -29,6 +29,7 @@ header #logo {
 }
 
 #headline {
+    position: absolute;
     text-align: center;
     top: 60px;
 }

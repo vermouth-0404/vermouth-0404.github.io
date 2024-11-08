@@ -12,8 +12,10 @@ body {
 }
 
 #headline1 {
+    border-bottom: 2px solid #3581d7;
+    border-top: 12px double #aee6f4;
     font-size: 72px;
-    padding: 180px 0 0;
+    padding: 160px 24px 0;
 }
 
 #headline2 {

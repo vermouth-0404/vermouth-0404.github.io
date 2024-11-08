@@ -6,11 +6,6 @@ html {
     html {
         font-size: 10px;
     }
-
-    header #logo {
-        padding: 0.8rem 6rem;
-        height: 7.2vh;
-    }
 }
 
 body {
@@ -46,6 +41,29 @@ header #logo {
     float: left;
     padding: 0.8rem 2rem;
     height: 10vh;
+}
+
+header .header-list {
+    box-sizing: border-box;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+header .header-list-item {
+    list-style: none;
+    text-decoration: none;
+}
+
+header .header-list-link {
+    color: #000000;
+    display: block;
+    margin: 0 2rem 0 0;
+    text-decoration: none;
+}
+
+header .header-list-link:hover {
+  filter: opacity(0.6);
 }
 
 #header-bottom {

@@ -6,6 +6,7 @@ body {
 }
 
 #headline {
+    position: absolute;
     text-align: center;
     top: 540px;
 }

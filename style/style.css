@@ -6,38 +6,6 @@ html {
     html {
         font-size: 10px;
     }
-
-    header {
-        position: relative;
-    }
-
-    header .responsive-button {
-        display: flex;
-    }
-    
-    header .navigation {
-        background: linear-gradient(cyan, 80%, blue);
-        height: 100vh;
-        padding: 10vh 0 0 0;
-        position: fixed;
-        right: -100%;
-        top: 0;
-        transition: 0.5s;
-        width: 100%;
-    }
-
-    header .navigation-list {
-        display: block;
-        text-align: center;
-    }
-
-    header .navigation-list li {
-        text-align: center;
-    }
-
-    header .navigation-link {
-        font-size: 1.5rem;
-    }
 }
 
 body {
@@ -115,6 +83,40 @@ header .navigation-link {
     color: #000000;
     font-size: 1.5rem;
     text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        position: relative;
+    }
+
+    header .responsive-button {
+        display: flex;
+    }
+    
+    header .navigation {
+        background: linear-gradient(cyan, 80%, blue);
+        height: 100vh;
+        padding: 10vh 0 0 0;
+        position: fixed;
+        right: -100%;
+        top: 0;
+        transition: 0.5s;
+        width: 100%;
+    }
+
+    header .navigation-list {
+        display: block;
+        text-align: center;
+    }
+
+    header .navigation-list li {
+        text-align: center;
+    }
+
+    header .navigation-link {
+        font-size: 1.5rem;
+    }
 }
 
 #header-bottom {

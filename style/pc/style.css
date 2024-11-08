@@ -6,6 +6,8 @@ body {
 }
 
 #headline {
+    background-attachment: fixed;
+    background-image: url("../../images/bookshelf.png");
     text-align: center;
 }
 

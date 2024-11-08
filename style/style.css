@@ -7,10 +7,6 @@ html {
         font-size: 10px;
     }
 
-    header {
-        position: relative;
-    }
-
     header .responsive-button {
         display: flex;
     }

@@ -6,13 +6,12 @@ body {
 }
 
 #headline {
-    position: absolute;
     text-align: center;
-    top: 540px;
 }
 
 #headline1 {
     font-size: 72px;
+    padding: 540px 0 0;
 }
 
 #headline2 {

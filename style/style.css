@@ -46,16 +46,16 @@ header #logo {
 header .navigation-list {
     display: flex;
     list-style: none;
+    text-decoration: none;
 }
 
 header .navigation-list li {
-    margin: 0 0.8rem;
+    margin: 0 1rem 0 2rem;
 }
 
 header .navigation-link {
     color: #000000;
-    font-size: 1.6rem;
-    text-decoration: none;
+    font-size: 1.4rem;
 }
 
 #header-bottom {

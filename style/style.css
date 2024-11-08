@@ -11,10 +11,6 @@ html {
         position: relative;
     }
 
-    #hamburger {
-        z-index: 102;
-    }
-
     .hamburger-list {
         background-color: linear-gradient(#aee6f4 60%, #5f74da);
         align-items: flex-start;
@@ -46,6 +42,7 @@ html {
         height: 1.4rem;
         justify-content: center;
         width: 2rem;
+        z-index: 102;
     }
 
     #hamburger:checked ~ .hamburger-button .hamburger-button-mark:nth-of-type(1) {

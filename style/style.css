@@ -11,6 +11,10 @@ html {
         position: relative;
     }
 
+    header .hamburger-bg {
+        z-index: 102;
+    }
+
     header .hamburger-list {
         background-color: linear-gradient(#aee6f4 60%, #5f74da);
         align-items: flex-start;

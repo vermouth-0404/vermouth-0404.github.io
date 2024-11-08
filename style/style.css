@@ -49,12 +49,13 @@ header .navigation-list {
 }
 
 header .navigation-list li {
-    margin: 0 0.8rem 0 0;
+    margin: 0 0.8rem;
 }
 
 header .navigation-link {
     color: #000000;
     font-size: 1.6rem;
+    text-decoration: none;
 }
 
 #header-bottom {

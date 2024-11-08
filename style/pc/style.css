@@ -8,9 +8,7 @@ body {
 #headline {
     background-attachment: fixed;
     background-image: url(../../image/bookshelf.png);
-    height: 100%;
     text-align: center;
-    width: 100%;
 }
 
 #headline1 {

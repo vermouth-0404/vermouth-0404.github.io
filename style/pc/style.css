@@ -43,15 +43,15 @@ header #logo {
 
 #headline1 {
     border-bottom: 2px solid #3581d7;
-    font-size: 72px;
+    font-size: 80px;
     padding: 200px 24px 0;
 }
 
 #headline2 {
-    font-size: 40px;
+    font-size: 36px;
     padding: 24px 0;
 }
 
 #headline3 {
-    font-size: 30px;
+    font-size: 24px;
 }

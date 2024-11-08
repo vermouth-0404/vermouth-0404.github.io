@@ -48,48 +48,6 @@ header #logo {
     height: 10vh;
 }
 
-header .responsive-button {
-    display: none;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 2rem;
-    height: 1.5rem;
-    margin: 0 2rem 0 0;
-    cursor: pointer;
-    position: relative;
-    z-index: 102;
-}
-
-header .menu-line {
-    background-color: #000000;
-    border-radius: 0.3rem;
-    width: 100%;
-    height: 0.3rem;
-    margin: 0.1rem 0;
-    z-index: 103;
-}
-
-.menu-active {
-    right: 0;
-}
-
-header .navigation-list {
-    display: flex;
-    list-style: none;
-    text-decoration: none;
-}
-
-header .navigation-list li {
-    margin: 0 2rem 0 0;
-}
-
-header .navigation-link {
-    color: #000000;
-    font-size: 1.5rem;
-    text-decoration: none;
-}
-
 #header-bottom {
     background-color: #aee6f4;
     height: 4px;

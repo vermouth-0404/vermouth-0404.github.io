@@ -162,6 +162,7 @@ header {
 
     #hamburger:checked ~ .hamburger-bg {
         display: block;
+        position: absolute;
         z-index: 101;
     }
     

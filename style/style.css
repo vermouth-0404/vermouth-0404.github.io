@@ -155,23 +155,23 @@ header {
         flex-direction: column;
         height: 1.4rem;
         justify-content: center;
-        right: 2rem;
+        right: 1rem;
         margin: 1rem;
         position: absolute;
-        width: 2rem;
+        width: 2.4rem;
         z-index: 102;
     }
 
     #mark1 {
-        top: 1.2rem;
+        margin: 0.2rem 0.1rem 0;
     }
 
     #mark2 {
-        top: 1.6rem;
+        margin: 0.1rem 0;
     }
 
     #mark3 {
-        top: 2rem;
+        margin: 0.1rem 0.2rem 0;
     }
 
     #hamburger:checked ~ .hamburger-button .hamburger-button-mark:nth-of-type(1) {

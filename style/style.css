@@ -57,6 +57,8 @@ header {
     display: flex;
     margin: 0;
     padding: 0;
+    position: fixed;
+    z-index: 101;
 }
 
 .header-list-item {

@@ -156,7 +156,7 @@ header {
         height: 1.4rem;
         justify-content: center;
         margin: 1rem 2rem;
-        position: fixed;
+        position: absolute;
         width: 2rem;
         z-index: 102;
     }
